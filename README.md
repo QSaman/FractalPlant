@@ -1,5 +1,5 @@
 # FractalPlant
-Creating a beautiful fractal using L-system. For more information visit this Wikipedia [page](https://en.wikipedia.org/wiki/L-system).
+Creating a beautiful fractal using [L-system](https://en.wikipedia.org/wiki/L-system). For rendering I've used [Qt](https://www.qt.io/) framework.
 
 ## Requirements
 
