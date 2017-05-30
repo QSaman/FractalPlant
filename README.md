@@ -1,11 +1,11 @@
 # FractalPlant
 Creating a beautiful fractal using [L-system](https://en.wikipedia.org/wiki/L-system). For rendering I've used [Qt](https://www.qt.io/) framework. You can see the result in the following image:
   
-![Fractal Plant Image](docs/tree_fractal.png)
+![docs/tree_fractal.png](docs/tree_fractal.png)
   
-![docs/FractalPlant.gif](docs/FractalPlantlow.gif)
-  
-I've used the following recurisve rules:
+![docs/FractalPlantlow.gif](docs/FractalPlantlow.gif)
+
+For a higher resolution gif you can use [this](docs/FractalPlant.gif). I've used the following recurisve rules:
 ```
 S → X | λ
 X → F[−X][X]F[−X]+FX
