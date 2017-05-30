@@ -3,7 +3,7 @@ Creating a beautiful fractal using [L-system](https://en.wikipedia.org/wiki/L-sy
   
 ![Fractal Plant Image](docs/tree_fractal.png)
   
-![Fractal Plant Gif](docs/FractalPlant.gif)
+![docs/FractalPlant.gif](docs/FractalPlantlow.gif)
   
 I've used the following recurisve rules:
 ```
