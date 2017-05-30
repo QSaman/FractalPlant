@@ -1,7 +1,9 @@
 # FractalPlant
-Creating a beautiful fractal using [L-system](https://en.wikipedia.org/wiki/L-system). For rendering I've used [Qt](https://www.qt.io/) framework. You can see the beautiful result in the following image:
+Creating a beautiful fractal using [L-system](https://en.wikipedia.org/wiki/L-system). For rendering I've used [Qt](https://www.qt.io/) framework. You can see the result in the following image:
   
 ![Fractal Plant Image](docs/tree_fractal.png)
+  
+![Fractal Plant Gif](docs/FractalPlant.gif)
   
 I've used the following recurisve rules:
 ```
